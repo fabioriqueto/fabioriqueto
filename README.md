@@ -1,123 +1,171 @@
-# Olá, sou Fábio Alexandre Riqueto 👋
+# 👋 Olá, sou Fábio Alexandre Riqueto
 
-### Analista de Sistemas | Desenvolvedor de Software
+## Analista de Sistemas | Desenvolvedor de Software
 
-Profissional de Tecnologia da Informação com mais de 30 anos de experiência prática em desenvolvimento de software, análise de sistemas, bancos de dados, sistemas empresariais, redes e integração entre software e hardware.
+Profissional de Tecnologia da Informação com mais de **30 anos de experiência prática** em desenvolvimento de sistemas, análise de processos, bancos de dados e soluções empresariais.
 
-Ao longo da minha trajetória, desenvolvi e implantei sistemas para diferentes segmentos, incluindo instituições financeiras, supermercados, farmácias, ópticas, lojas, autopeças, oficinas, transportadoras, distribuidoras, pizzarias, lanchonetes e restaurantes.
+Ao longo da carreira, desenvolvi e mantive sistemas para diferentes segmentos, incluindo instituições financeiras, supermercados, farmácias, óticas, lojas, transportadoras, oficinas, autopeças, pizzarias, lanchonetes, restaurantes e outros negócios.
 
-Minha experiência envolve desde o levantamento de necessidades e análise dos processos de negócio até desenvolvimento, banco de dados, implantação, treinamento, manutenção e suporte.
+Minha experiência envolve diferentes etapas do desenvolvimento de software, desde a **análise das necessidades do negócio e estruturação das soluções até desenvolvimento, implantação, configuração, treinamento, manutenção e suporte**.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, utilizando a formação acadêmica como complemento e aperfeiçoamento contínuo da experiência profissional, aprofundando conhecimentos em desenvolvimento de software, engenharia de software, bancos de dados, desenvolvimento web, testes, frameworks, computação em nuvem e tecnologias atuais.
-
----
-
-## 🛠️ Conhecimentos e Tecnologias
-
-### Desenvolvimento
-- Python
-- Java
-- JavaScript
-- C
-- C++
-- Visual Basic 6
-- HTML
-- CSS
-
-### Web e Frameworks
-- Flask
-- Django
-- Desenvolvimento Web
-- APIs
-- Aplicações Web
-
-### Banco de Dados
-- SQL
-- MySQL
-- MariaDB
-- Microsoft Access
-- Modelagem e estruturação de bancos de dados
-
-### Engenharia e Análise de Sistemas
-- Levantamento de requisitos
-- Análise de sistemas
-- Modelagem de sistemas
-- Regras de negócio
-- Desenvolvimento de sistemas empresariais
-- Testes e validação
-- Manutenção e evolução de sistemas
-- Estruturação de soluções de software
-
-### Redes e Infraestrutura
-- Gerenciamento de redes
-- Configuração de redes
-- Administração de redes
-- Manutenção de computadores
-- Configuração de equipamentos
-- Diagnóstico de problemas de hardware e software
-
-### Software, Hardware e Sistemas Embarcados
-- Arduino
-- ESP32
-- Integração entre software e hardware
-- Sensores e dispositivos
-- Automação
-- Integração com equipamentos comerciais
+Atualmente, curso **Análise e Desenvolvimento de Sistemas**, utilizando a formação acadêmica como parte do processo contínuo de aperfeiçoamento e atualização profissional.
 
 ---
 
-## 📌 Projetos
+## 💻 Principais áreas
 
-### 💼 Sistema Comercial
-Sistema desenvolvido para gerenciamento de operações comerciais, representando parte da minha experiência com sistemas empresariais e regras de negócio.
-
-### 💾 Sistema de Backup
-Aplicação destinada ao gerenciamento de cópias de segurança e backup de dados.
-
-### 🏥 Clínica Vida Mais
-Projeto desenvolvido em Python como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas da Anhanguera.
-
-### ☕ Cadastro de Categorias do Café
-Aplicação desenvolvida para gerenciamento e organização de categorias, como parte dos estudos e projetos acadêmicos.
-
-### 📊 Cronograma de Estudos
-Sistema desenvolvido em Python para planejamento, acompanhamento e visualização gráfica das atividades acadêmicas e do cronograma de estudos.
-
----
-
-## 🎓 Formação
-
-**CST em Análise e Desenvolvimento de Sistemas**  
-Anhanguera — Em andamento
-
-Atualmente no **4º semestre**, com continuidade da formação acadêmica e aprofundamento dos conhecimentos técnicos adquiridos ao longo da experiência profissional.
-
----
-
-## 🚀 Em aperfeiçoamento
-
-Atualmente estou aprofundando meus conhecimentos em:
-
-- Python
-- Java
-- JavaScript
-- Desenvolvimento Web
-- Flask e Django
-- Banco de Dados
+- Análise e Desenvolvimento de Sistemas
+- Desenvolvimento de Software
 - Engenharia de Software
-- Testes de Software
-- Arquitetura e estruturação de sistemas
-- Computação em Nuvem
-- Desenvolvimento de aplicações
-- Sistemas embarcados e integração com hardware
+- Desenvolvimento Web
+- Banco de Dados e SQL
+- Python
+- Java
+- JavaScript
+- Flask e Django
+- C e C++
+- Visual Basic 6
+- Redes de computadores
+- Integração Software/Hardware
+- Arduino e ESP32
+- Sistemas empresariais
 
 ---
 
-## 📫 Contato
+## 🏢 Experiência em sistemas empresariais
 
-- LinkedIn: [Adicionar posteriormente]
-- GitHub: [github.com/fabioriqueto](https://github.com/fabioriqueto)
+Ao longo da carreira, desenvolvi soluções para diferentes processos e segmentos, incluindo:
+
+- sistemas financeiros;
+- contas a pagar e receber;
+- fluxo de caixa;
+- clientes e fornecedores;
+- produtos e estoque;
+- vendas e checkout;
+- sistemas para supermercados;
+- farmácias;
+- óticas;
+- lojas;
+- transportadoras;
+- oficinas e autopeças;
+- pizzarias;
+- lanchonetes;
+- restaurantes;
+- mesas, comandas e consumo;
+- empréstimos e financiamentos;
+- operações com cheques;
+- integração com equipamentos e periféricos.
 
 ---
 
-> Este perfil reúne projetos profissionais, experimentais e acadêmicos desenvolvidos ao longo da minha trajetória e durante meu processo contínuo de atualização em Tecnologia da Informação.
+# 🚀 Projetos em destaque
+
+### 🏥 [Clínica Vida+](https://github.com/fabioriqueto/ClinicaVidaMais)
+
+Projeto acadêmico de desenvolvimento de uma solução para gerenciamento de clínica.
+
+Envolve análise de requisitos, organização do projeto, lógica de programação, gerenciamento de pacientes, persistência de dados, validações, relatórios e aplicação de conceitos de Engenharia de Software.
+
+**Tecnologia principal:** Python
+
+---
+
+### 📅 [Cronograma de Estudos](https://github.com/fabioriqueto/cronograma-estudos)
+
+Aplicação Web desenvolvida para gerenciamento e acompanhamento de atividades acadêmicas.
+
+Possui estrutura hierárquica de atividades, CRUD, dashboard, tarefas pendentes, filtros e visualizações interativas em **Gantt e Timeline**.
+
+**Tecnologias:** Python, Flask, Jinja2, HTML, CSS, Bootstrap, JavaScript, Plotly e JSON.
+
+---
+
+### ☕ [Cadastro de Categorias do Café](https://github.com/fabioriqueto/Cadastro-de-Categorias-do-Caf-)
+
+Projeto acadêmico envolvendo desenvolvimento de um módulo de cadastro de categorias, com atividades de Front-end, Back-end, persistência, testes e validação.
+
+O desenvolvimento também envolveu organização das atividades utilizando **Kanban**, acompanhamento de prioridades, dependências e bloqueios.
+
+---
+
+### 💾 [Projeto Backup System](https://github.com/fabioriqueto/Projeto-Backup-System)
+
+Sistema desenvolvido em contexto profissional para automatização de rotinas de backup.
+
+Projeto histórico que demonstra experiência com automação de tarefas, manipulação de arquivos e desenvolvimento de sistemas utilizando tecnologias da época.
+
+**Tecnologias:** Visual Basic 6, Microsoft Access e Windows.
+
+---
+
+### 💼 [Projeto Financeiro — VB6](https://github.com/fabioriqueto/Projeto-Financeiro-VB6)
+
+Sistema desenvolvido em contexto profissional para uma instituição financeira.
+
+O projeto envolveu operações relacionadas a clientes, financiamentos, empréstimos e cheques.
+
+**Tecnologias:** Visual Basic 6, Microsoft Access e SQL.
+
+---
+
+# 📚 Formação acadêmica
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+
+Atualmente em formação acadêmica, aprofundando conhecimentos em:
+
+- Engenharia de Software;
+- análise e modelagem de sistemas;
+- programação;
+- bancos de dados;
+- desenvolvimento Web;
+- frameworks;
+- testes de software;
+- computação em nuvem;
+- desenvolvimento de aplicações.
+
+A formação acadêmica complementa minha experiência profissional, permitindo atualizar conhecimentos e aplicar conceitos atuais de desenvolvimento de software.
+
+---
+
+# 🧠 Experiência + aprendizado contínuo
+
+Minha trajetória combina **mais de 30 anos de experiência prática em Tecnologia da Informação** com formação acadêmica atual.
+
+Meu foco de aperfeiçoamento está especialmente relacionado a:
+
+- Desenvolvimento de Software;
+- Análise de Sistemas;
+- Engenharia de Software;
+- Banco de Dados;
+- Desenvolvimento Web;
+- Python;
+- Java;
+- JavaScript;
+- APIs;
+- Frameworks;
+- Computação em Nuvem;
+- Arquitetura e estruturação de soluções;
+- Integração entre software e hardware.
+
+---
+
+# 🔗 Onde me encontrar
+
+### 💻 GitHub
+
+[github.com/fabioriqueto](https://github.com/fabioriqueto)
+
+### 💼 LinkedIn
+
+[linkedin.com/in/fabioalexandreriqueto](https://www.linkedin.com/in/fabioalexandreriqueto)
+
+---
+
+## 📌 Sobre este perfil
+
+Este GitHub reúne projetos profissionais, acadêmicos e experimentais que representam diferentes etapas da minha trajetória na Tecnologia da Informação.
+
+Os projetos mais antigos preservam tecnologias utilizadas em períodos anteriores da carreira, enquanto os projetos acadêmicos e atuais demonstram meu processo de atualização e aperfeiçoamento.
+
+O objetivo é apresentar, por meio de projetos concretos, a combinação entre **experiência profissional, conhecimento técnico e formação acadêmica contínua**.
